@@ -1,4 +1,4 @@
-# groupchatextension
+# Group Chat extension
 
 Goal was to use a socket extension to communicate realtime with people - anyonee with the extension open can identify them selves . and chat.
 
